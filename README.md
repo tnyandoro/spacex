@@ -87,16 +87,9 @@ npm install --save-dev stylelint@13.3.x stylelint-scss@3.17.x stylelint-config-s
 ```
 
 
-👤 **Moises Hernandez Coronado**
-
-- GitHub: [@Mhdez221993](https://github.com/Mhdez221993)
-- Twitter: [@MoisesH42060050](https://twitter.com/MoisesH42060050)
-- LinkedIn: [Moises Hernandez Coronado](https://www.linkedin.com/in/moises-hernandez-9bbb17145/)
+👤 **Tendai Nyandoro**
 
 
-👤 **Shonibare Adewunmi Comfort**
-- GitHub: [@Adewunmi97](https://github.com/Adewunmi97)
-- Twitter: [@ShonibareC](https://twitter.com/ShonibareC)
 
 
 ## 🤝 Contributing
@@ -117,4 +110,3 @@ Give a ⭐️ if you like this project!
 - Microverse for giving me this chance
 - To my Stand Up Team and coding partners who kept my morale up!
 - The amazing code reviewers for making me improve every day :thumbsup:
-# spacex
